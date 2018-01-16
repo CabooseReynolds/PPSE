@@ -1,0 +1,10 @@
+Choose characters
+Choose weapons - Sword, Spear, Bow
+Sword Damage - 100% - 1 space - 100 HEALTH (Base)
+Claw Damage - 90% - 1 Space - 100 HEALTH
+Spear Damage - 80% - 3 space - 80 HEALTH
+Bow Damage -  70% - 5 space - 70 HEALTH
+
+Board Size can determine things
+Neutral zone - safe zone from elements.
+
