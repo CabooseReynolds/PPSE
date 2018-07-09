@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff08 scene
 //Name: Lamps.ma
-//Last modified: Sun, Jul 08, 2018 06:25:21 PM
+//Last modified: Sun, Jul 08, 2018 06:30:03 PM
 //Codeset: 1252
 requires maya "2018ff08";
 requires -nodeType "aiOptions" -nodeType "aiAOVDriver" -nodeType "aiAOVFilter" "mtoa" "3.0.0.2";
@@ -16,13 +16,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "411AB765-4EEC-186F-D5AB-6B81B5AB7274";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -25.064660247943515 16.520253262311378 -46.85922374546481 ;
+	setAttr ".t" -type "double3" -25.064660247945387 16.520253262311904 -46.859223745469137 ;
 	setAttr ".r" -type "double3" 1433.6616472355527 2723.399999997263 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "C38636C7-49C5-51F4-ADA8-A0BB16F64895";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 57.426373954941312;
+	setAttr ".coi" 57.426373954946065;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
