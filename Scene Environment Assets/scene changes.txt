@@ -4,21 +4,10 @@ Newspaper dispenser
 	Texture: rust on the bottom
 	Texture: add some tagging
 
-Cardboard boxes
-	add crinkles and fix the one with the dark squares
-
 CinderBlock
 	Texture: more of a course texture, inney belly button style
 	Texture: especially on the areas that are broken
 	Texture: Saved reference in downloads as an example
-
-tires
-	simplify the inside, make it deeper
-	outside add more detail
-
-trash bags
-	Texture: make it more rough, more plastic looking
-
 
 cement barricades
 	Texture:  more inney with the rocks
