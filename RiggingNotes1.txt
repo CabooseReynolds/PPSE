@@ -1,0 +1,22 @@
+Forward Kinematics (FK)
+Pro: Primary means of rigging, easiest, quickest, most stable, can be used in about any circumstance. 
+Con: It can be a bit clunky, hard to animate.
+FK works on the principle of Hierarchy
+
+Importance of Hierarchy 
+Parent/Child relationship
+
+Torso
+ > Head
+ > Hips
+   > Legs
+   > Feet
+     > Digits
+ > Arms
+   > Hands
+     > Digits
+
+
+Two animations
+2 jumps
+1 jump, swing on pole and dismount
